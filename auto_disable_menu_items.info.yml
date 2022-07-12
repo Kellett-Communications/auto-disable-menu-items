@@ -3,4 +3,4 @@ type: module
 description: Allows automatically disabling the menu items for specified content types upon saving (if a menu item is present).
 core_version_requirement: ^8.8 || ^9
 package: KCI
-version: '1.0'
+version: '1.0.1'
