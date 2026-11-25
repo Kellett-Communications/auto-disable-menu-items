@@ -3,9 +3,6 @@
     "description": "Automatically disable menu items for specified content types upon saving.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
-    "require": {
-        "composer/installers": "^1.0 || ^2.0"
-    },
     "extra": {
         "installer-name": "auto_disable_menu_items"
     }
